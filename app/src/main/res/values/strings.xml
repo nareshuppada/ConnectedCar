@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Connected Car</string>
+    <string name="title_activity_trips">Trips</string>
+    <string name="title_activity_navigation">Ubintel Connected Car</string>
+    <string name="title_section1">Trips</string>
+    <string name="title_section2">Ubintel Insights</string>
+    <string name="title_section3">OBD Reader Data</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Options</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_route_title">Route Details</string>
+    <string name="trips_1">Trip 1</string>
+    <string name="trips_2">Trip 2</string>
+    <string name="trips_3">Trip 3</string>
+    <string name="title_activity_trip">Trip 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tab_routes">Routes</string>
+    <string name="tab_insights">Insights</string>
+    <string name="tab_alerts">Alerts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="obd_reader_details">Current OBD Data</string>
+    <string name="command_list">Choose a command</string>
+
+</resources>
